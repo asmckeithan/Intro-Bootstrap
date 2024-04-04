@@ -1,6 +1,4 @@
 body {
-    background-color: rgb(177, 164, 189);
+    background: radial-gradient(circle at 100%, #efc2ee, #efd7ea 50%, #ef9bd5 75%, #ebb5db 75%);
 }
-#table {
-    background-color: aliceblue;
-}
+
